@@ -18,6 +18,7 @@ public class Abcondition{
             else{
                 System.out.println("a is smaller than b");
             }
+            s.close();
         }
     } 
 }

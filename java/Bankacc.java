@@ -1,4 +1,4 @@
-import java.io.*;
+
 import java.util.*;
 class Bankacc
 {
@@ -12,7 +12,9 @@ class Bankacc
         name=s.nextLine();
         System.out.println("Enter account no");
         accNo=s.nextLong();
-        balance=1000;  
+        balance=1000; 
+        
+        s.close();
     }
     public void deposite()
     {
@@ -20,6 +22,8 @@ class Bankacc
         System.out.println("Enter amount to deposite");
         double a=s.nextDouble();
         balance=balance+a;
+
+        s.close();
     }
     public void withdraw()
     {
@@ -30,6 +34,8 @@ class Bankacc
         balance=balance-w;
         else
         System.out.println("Insufficient balance");
+
+        s.close();
     }
     public void display()
     {
@@ -44,4 +50,5 @@ class Bankacc
         obj.withdraw();
         obj.display();
     }
+
 }

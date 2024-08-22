@@ -9,8 +9,6 @@
 
       */
 
-import java.util.*;
-
 
 public class floydpattern8 {
       public static void main(String[] args){

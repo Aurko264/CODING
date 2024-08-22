@@ -21,5 +21,7 @@ public class Marks {
             System.out.println("Want to continue ? (yes(1) or no(0))");
             input = s.nextInt();
         }while(input == 1);
+
+        s.close();
     }
 }

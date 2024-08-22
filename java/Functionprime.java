@@ -19,6 +19,8 @@ public class Functionprime {
         int n = s.nextInt();
 
         printPrime(n);
+
+        s.close();
     }
 
 }

@@ -20,5 +20,7 @@ public class Ifage {
         else{
             System.out.println("SLEEP TIGHT");
         }
+
+        s.close();
     }
 }

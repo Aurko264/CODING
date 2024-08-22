@@ -28,6 +28,7 @@ public class Table {
         System.out.println(a+ " * 9 = " + j);
         System.out.println(a+ " * 10 = " + k);
         
+        s.close();
         }
     }
 

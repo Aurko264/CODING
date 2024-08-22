@@ -22,12 +22,14 @@ public class Factorialfunc {
     }
 
     public static void main(String args[]) {
-        Scanner sc = new Scanner(System.in);
+        Scanner s = new Scanner(System.in);
         System.out.print("Enter the factorial no = ");
-        int n = sc.nextInt();
+        int n = s.nextInt();
  
  
         printFactorial(n);
+
+        s.close();
     }
  }
  

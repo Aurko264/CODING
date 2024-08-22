@@ -8,10 +8,7 @@
                 *   *
                *****
 
-                          */
-
-
-import java.util.*;                          
+                          */                         
 
 
 public class Adpattern4 {

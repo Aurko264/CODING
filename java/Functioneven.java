@@ -19,6 +19,8 @@ public class Functioneven {
         int n = s.nextInt();
 
         printeven(n);
+
+        s.close();
     }
 
 }

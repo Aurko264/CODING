@@ -16,5 +16,7 @@ public class functionmul{
 
         int mul = calculateMul(a, b);
         System.out.println("a * b = " + mul);
+
+        s.close();
      }
 }

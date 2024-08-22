@@ -19,5 +19,7 @@ public class Functiontable {
         int n = s.nextInt();
 
         printTable(n);
+
+        s.close();
     }
 }

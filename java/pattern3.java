@@ -1,12 +1,12 @@
 //Print the pattern
      /*
+
       *
       ** 
       ***
       ****
-      */
 
-  import java.util.*;    
+      */  
 
 
 public class pattern3 {

@@ -11,6 +11,8 @@ public class Circle {
         double r = s.nextDouble();
         double area = pi*r*r;
         System.out.println(area); 
+
+        s.close();
     }
-    
+
 }

@@ -7,5 +7,7 @@ public class Input {
     Scanner s = new Scanner(System.in);
     String name = s.nextLine();
     System.out.println(name);
+
+    s.close();
     }
 }

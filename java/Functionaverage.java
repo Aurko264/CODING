@@ -20,5 +20,7 @@ public class Functionaverage {
 
         float avg = calculateAverage(a, b, c);
         System.out.print("Average of a, b, c is " + avg); 
+
+        s.close();
     }
 }

@@ -5,11 +5,8 @@
     12
     123
     12345
-    12
 
     */
-
- import java.util.*;   
 
 
 public class Pattern6 {

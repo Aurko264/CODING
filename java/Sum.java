@@ -14,5 +14,7 @@ public class Sum {
 
         System.out.print("sum of the natural no = ");
         System.out.print(sum);
+
+        s.close();
     }
 }

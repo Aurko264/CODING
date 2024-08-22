@@ -12,5 +12,7 @@ public class Function1 {
         String name = s.next();
 
         printMyName(name);//call kiya function ko
+
+        s.close();
     }
 }

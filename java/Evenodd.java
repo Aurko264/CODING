@@ -14,5 +14,7 @@ public class Evenodd {
         else{
             System.out.println("Odd No");
         }
+
+        s.close();
     }
 }

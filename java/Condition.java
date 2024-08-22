@@ -1,5 +1,4 @@
 import java.util.*;
-import java.io.*;
 
 
 public class Condition {
@@ -18,5 +17,7 @@ public class Condition {
             break;
             default : System.out.println("Invalid button");
         }
+
+        s.close();
     }
 }

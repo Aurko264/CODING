@@ -16,5 +16,7 @@ public class Functionsum {
     
          int sum = calculateSum(a, b);
          System.out.println("a + b = " + sum);
+
+         s.close();
     }
 }

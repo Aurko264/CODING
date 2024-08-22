@@ -8,5 +8,7 @@ public class Scann {
         int b = s.nextInt();
         int sum = a + b;
         System.out.println(sum);
+
+        s.close();
     }
 }

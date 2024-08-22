@@ -12,6 +12,8 @@ public class Evenno {
                 System.out.println(i);
 
             }
+
+            s.close();
         }
     }
 }
