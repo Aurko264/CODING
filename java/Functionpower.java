@@ -4,7 +4,12 @@ import java.util.*;
 
 public class Functionpower {
     public static void printPower(int x , int n){
-    
+        int result = 1;
+        while(n!=0){
+            result = result * x;
+            n--;
+        } 
+        System.out.println(result);
     }
 
     public static void main(String[] args) {
