@@ -5,19 +5,16 @@ import java.util.*;
 public class FunctionGCd {
     public static void printGCD(int a , int b){
 
-        while(a != b){             
-            if(a>b) {
-                a = a - b;
-            } else {
-                b = b - a;
-            }
-            while(a == 0|| b == 0){
-                System.out.println(a);
-            }
-    }
-
-    //System.out.println(x);
-        } 
+        while(a != b){  
+            while(a % b == 0|| b % a == 0){         
+                if(a>b) {
+                    a = a - b;
+                } else {
+                    b = b - a;
+                }
+           }
+       }
+   } 
 
     public static void main(String[] args) {
         Scanner s = new Scanner(System.in);
