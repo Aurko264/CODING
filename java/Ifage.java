@@ -1,3 +1,5 @@
+// Write a programm to print adult or minor if age is more than 18 or below 18. 
+
 import java.util.*;
 
 

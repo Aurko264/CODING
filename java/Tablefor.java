@@ -1,3 +1,5 @@
+// Write a programm to print the table of a given no.
+
 import java.util.*;
 
 
@@ -10,6 +12,7 @@ public class Tablefor {
         for(int i = 1; i<11; i++){
             System.out.println(i*n);
         }
+
         s.close();
     }
 }

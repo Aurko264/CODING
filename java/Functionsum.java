@@ -1,3 +1,5 @@
+//Write a function to add 2 numbers
+
 import java.util.*;
 
 

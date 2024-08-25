@@ -1,3 +1,5 @@
+//write a programm to check whether the no is pallindrome or not.
+
 import java.util.Scanner;
 
 public class Pali
