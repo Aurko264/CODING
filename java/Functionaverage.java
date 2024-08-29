@@ -5,7 +5,7 @@ import java.util.*;
 
 public class Functionaverage {
     public static float calculateAverage(float a, float b, float c){
-        float avg = a + b + c / 3;
+        float avg = (a + b + c) / 3;
         return avg;
     }
 
