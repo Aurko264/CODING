@@ -1,3 +1,5 @@
+// Write a programm to check whether a is greater , smaller or equal than b.
+
 import java.util.*;
 
 public class Abcondition{

@@ -1,3 +1,5 @@
+// Write a programm to print all even no till n.
+
 import java.util.*;
 
 public class Evenno {

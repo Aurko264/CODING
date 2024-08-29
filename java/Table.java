@@ -1,3 +1,5 @@
+// Write a programm print the table of the given no 
+
 import java.util.*;
 
 

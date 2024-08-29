@@ -1,3 +1,5 @@
+//Write a programm to check whether the no is even or odd.
+
 import java.util.*;
 
 

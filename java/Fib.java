@@ -1,3 +1,5 @@
+//Write a programm to print fibonacci series upto given number n. 
+
 import java.util.Scanner;
 
 public class Fib {

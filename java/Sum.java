@@ -1,3 +1,5 @@
+// Write a programm to print the sum of natural no upto given no n.
+
 import java.util.*;
 
 

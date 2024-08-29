@@ -1,5 +1,6 @@
-import java.util.*;
+// Write a programm to print the area of the circle according to given radius. 
 
+import java.util.*;
 
 public class Circle {
     public static void main(String[] args){

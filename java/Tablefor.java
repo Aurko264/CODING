@@ -1,4 +1,4 @@
-// Write a programm to print the table of a given no.
+// Write a programm to print the table of a given no using for
 
 import java.util.*;
 

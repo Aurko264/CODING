@@ -1,4 +1,4 @@
-//  Write a function to calculate the factorial of a number
+// Write a programm using function to calculate the factorial of a number
 
 import java.util.*;
 
