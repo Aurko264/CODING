@@ -7,28 +7,22 @@ import java.util.*;
 
 public class Fibonacci {
     public static void main(String[] args) {
-        Scanner s = new Scanner(System.in);
-        System.out.print("Enter the no : ");
-        int n = s.nextInt();
+       int a = 0;
+       int b = 1;
+       int c;
+       Scanner s = new Scanner(System.in);
+       System.out.print("Enter the count : ");
+       int count = s.nextInt();
 
-        int a = 0, b = 1;
-          
-       System.out.print(a+" ");
-      
-       if(n > 1) {
-           //find nth term
-           for(int i=2; i<=n; i++) {
-               System.out.print(b+" ");
-               //the concept below is called swapping
-               int temp = b;
-               b = a + b;
-               a = temp;
-           }
-
-           System.out.println();
+       
+       System.out.print(a + " " + b);
+       for(int i = 2; i<count; i++){
+        c = a + b;
+        System.out.print(" " + c);
+        a = b;
+        b = c;
        }
-
        s.close();
-   }   
+    }
 }
 
