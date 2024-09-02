@@ -5,8 +5,8 @@ import java.util.*;
 public class Count{
    public static void main(String args[]) {
        int positive = 0, negative = 0, zeros = 0;
+       Scanner s = new Scanner(System.in);  
        System.out.println("Press 1 to continue & 0 to stop");
-       Scanner s = new Scanner(System.in);
        int input = s.nextInt();
 
        while(input == 1) {
@@ -31,4 +31,4 @@ public class Count{
 
        s.close();
    }   
-}
+}   

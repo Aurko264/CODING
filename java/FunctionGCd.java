@@ -4,19 +4,13 @@ import java.util.*;
 
 public class FunctionGCd {
     public static void printGCD(int a , int b){
-        while(a != b){ 
-            if(a>b){
-                 a = a - b;
-            }else{
-                 b = b - a;
-            }if (a % b == 0 && b % a  == 0) {
-                if(a>b){
-                    System.out.println(a);
-                }else{
-                    System.out.println(b);
-                }
+        int n = 0;
+        for(int i=1; i<=a; i++){
+            if (a % i == 0 && b % i == 0) {
+                n = i;
             }
         }
+        System.out.println("GCD value is : " + n);
     }
 
     public static void main(String[] args) {
