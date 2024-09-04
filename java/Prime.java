@@ -8,13 +8,13 @@ public class Prime {
         System.out.print("Enter the no = ");
         int n = s.nextInt();
 
-        boolean isprime = true;
-        for(int i = 2; i <= n/2; i++){
+        boolean prime = true;
+        
             if(n % 2== 0){
-                isprime = false;
-            }break;
-        }
-        if(isprime){
+                prime = false;
+            }
+        
+        if(prime){
             if(n==1){
                 System.out.println("This is neither prime nor composite");
             }
