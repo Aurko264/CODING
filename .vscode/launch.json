@@ -1,0 +1,504 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Abcondition",
+            "request": "launch",
+            "mainClass": "Abcondition",
+            "projectName": "CODING_18447f23"
+        },
+        {
+            "type": "java",
+            "name": "Adpattern1",
+            "request": "launch",
+            "mainClass": "Adpattern1",
+            "projectName": "CODING_18447f23"
+        },
+        {
+            "type": "java",
+            "name": "Adpattern2",
+            "request": "launch",
+            "mainClass": "Adpattern2",
+            "projectName": "CODING_18447f23"
+        },
+        {
+            "type": "java",
+            "name": "Adpattern3",
+            "request": "launch",
+            "mainClass": "Adpattern3",
+            "projectName": "CODING_18447f23"
+        },
+        {
+            "type": "java",
+            "name": "Adpattern4",
+            "request": "launch",
+            "mainClass": "Adpattern4",
+            "projectName": "CODING_18447f23"
+        },
+        {
+            "type": "java",
+            "name": "Adpattern5",
+            "request": "launch",
+            "mainClass": "Adpattern5",
+            "projectName": "CODING_18447f23"
+        },
+        {
+            "type": "java",
+            "name": "Adpattern6",
+            "request": "launch",
+            "mainClass": "Adpattern6",
+            "projectName": "CODING_18447f23"
+        },
+        {
+            "type": "java",
+            "name": "Array1",
+            "request": "launch",
+            "mainClass": "Array1",
+            "projectName": "CODING_18447f23"
+        },
+        {
+            "type": "java",
+            "name": "Array2",
+            "request": "launch",
+            "mainClass": "Array2",
+            "projectName": "CODING_18447f23"
+        },
+        {
+            "type": "java",
+            "name": "Array2d",
+            "request": "launch",
+            "mainClass": "Array2d",
+            "projectName": "CODING_18447f23"
+        },
+        {
+            "type": "java",
+            "name": "Array3",
+            "request": "launch",
+            "mainClass": "Array3",
+            "projectName": "CODING_18447f23"
+        },
+        {
+            "type": "java",
+            "name": "ArrayQ1",
+            "request": "launch",
+            "mainClass": "ArrayQ1",
+            "projectName": "CODING_18447f23"
+        },
+        {
+            "type": "java",
+            "name": "ArrayQ2",
+            "request": "launch",
+            "mainClass": "ArrayQ2",
+            "projectName": "CODING_18447f23"
+        },
+        {
+            "type": "java",
+            "name": "ArrayQ3",
+            "request": "launch",
+            "mainClass": "ArrayQ3",
+            "projectName": "CODING_18447f23"
+        },
+        {
+            "type": "java",
+            "name": "ArrayQ4",
+            "request": "launch",
+            "mainClass": "ArrayQ4",
+            "projectName": "CODING_18447f23"
+        },
+        {
+            "type": "java",
+            "name": "Bankacc",
+            "request": "launch",
+            "mainClass": "Bankacc",
+            "projectName": "CODING_18447f23"
+        },
+        {
+            "type": "java",
+            "name": "Calculator",
+            "request": "launch",
+            "mainClass": "Calculator",
+            "projectName": "CODING_18447f23"
+        },
+        {
+            "type": "java",
+            "name": "Circle",
+            "request": "launch",
+            "mainClass": "Circle",
+            "projectName": "CODING_18447f23"
+        },
+        {
+            "type": "java",
+            "name": "Condition",
+            "request": "launch",
+            "mainClass": "Condition",
+            "projectName": "CODING_18447f23"
+        },
+        {
+            "type": "java",
+            "name": "Count",
+            "request": "launch",
+            "mainClass": "Count",
+            "projectName": "CODING_18447f23"
+        },
+        {
+            "type": "java",
+            "name": "Dowhile",
+            "request": "launch",
+            "mainClass": "Dowhile",
+            "projectName": "CODING_18447f23"
+        },
+        {
+            "type": "java",
+            "name": "Evenno",
+            "request": "launch",
+            "mainClass": "Evenno",
+            "projectName": "CODING_18447f23"
+        },
+        {
+            "type": "java",
+            "name": "Evenodd",
+            "request": "launch",
+            "mainClass": "Evenodd",
+            "projectName": "CODING_18447f23"
+        },
+        {
+            "type": "java",
+            "name": "Factorialfunc",
+            "request": "launch",
+            "mainClass": "Factorialfunc",
+            "projectName": "CODING_18447f23"
+        },
+        {
+            "type": "java",
+            "name": "Fib",
+            "request": "launch",
+            "mainClass": "Fib",
+            "projectName": "CODING_18447f23"
+        },
+        {
+            "type": "java",
+            "name": "Fibonacci",
+            "request": "launch",
+            "mainClass": "Fibonacci",
+            "projectName": "CODING_18447f23"
+        },
+        {
+            "type": "java",
+            "name": "Firstclass",
+            "request": "launch",
+            "mainClass": "Firstclass",
+            "projectName": "CODING_18447f23"
+        },
+        {
+            "type": "java",
+            "name": "Function1",
+            "request": "launch",
+            "mainClass": "Function1",
+            "projectName": "CODING_18447f23"
+        },
+        {
+            "type": "java",
+            "name": "FunctionGCd",
+            "request": "launch",
+            "mainClass": "FunctionGCd",
+            "projectName": "CODING_18447f23"
+        },
+        {
+            "type": "java",
+            "name": "Functionaverage",
+            "request": "launch",
+            "mainClass": "Functionaverage",
+            "projectName": "CODING_18447f23"
+        },
+        {
+            "type": "java",
+            "name": "Functioncircum",
+            "request": "launch",
+            "mainClass": "Functioncircum",
+            "projectName": "CODING_18447f23"
+        },
+        {
+            "type": "java",
+            "name": "Functioneven",
+            "request": "launch",
+            "mainClass": "Functioneven",
+            "projectName": "CODING_18447f23"
+        },
+        {
+            "type": "java",
+            "name": "Functiongreater",
+            "request": "launch",
+            "mainClass": "Functiongreater",
+            "projectName": "CODING_18447f23"
+        },
+        {
+            "type": "java",
+            "name": "Functionodd",
+            "request": "launch",
+            "mainClass": "Functionodd",
+            "projectName": "CODING_18447f23"
+        },
+        {
+            "type": "java",
+            "name": "Functionpower",
+            "request": "launch",
+            "mainClass": "Functionpower",
+            "projectName": "CODING_18447f23"
+        },
+        {
+            "type": "java",
+            "name": "Functionprime",
+            "request": "launch",
+            "mainClass": "Functionprime",
+            "projectName": "CODING_18447f23"
+        },
+        {
+            "type": "java",
+            "name": "Functionsum",
+            "request": "launch",
+            "mainClass": "Functionsum",
+            "projectName": "CODING_18447f23"
+        },
+        {
+            "type": "java",
+            "name": "Functiontable",
+            "request": "launch",
+            "mainClass": "Functiontable",
+            "projectName": "CODING_18447f23"
+        },
+        {
+            "type": "java",
+            "name": "Functionvote",
+            "request": "launch",
+            "mainClass": "Functionvote",
+            "projectName": "CODING_18447f23"
+        },
+        {
+            "type": "java",
+            "name": "Ifage",
+            "request": "launch",
+            "mainClass": "Ifage",
+            "projectName": "CODING_18447f23"
+        },
+        {
+            "type": "java",
+            "name": "Infinite",
+            "request": "launch",
+            "mainClass": "Infinite",
+            "projectName": "CODING_18447f23"
+        },
+        {
+            "type": "java",
+            "name": "Input",
+            "request": "launch",
+            "mainClass": "Input",
+            "projectName": "CODING_18447f23"
+        },
+        {
+            "type": "java",
+            "name": "Loop",
+            "request": "launch",
+            "mainClass": "Loop",
+            "projectName": "CODING_18447f23"
+        },
+        {
+            "type": "java",
+            "name": "Marks",
+            "request": "launch",
+            "mainClass": "Marks",
+            "projectName": "CODING_18447f23"
+        },
+        {
+            "type": "java",
+            "name": "Month",
+            "request": "launch",
+            "mainClass": "Month",
+            "projectName": "CODING_18447f23"
+        },
+        {
+            "type": "java",
+            "name": "Noloop",
+            "request": "launch",
+            "mainClass": "Noloop",
+            "projectName": "CODING_18447f23"
+        },
+        {
+            "type": "java",
+            "name": "Pali",
+            "request": "launch",
+            "mainClass": "Pali",
+            "projectName": "CODING_18447f23"
+        },
+        {
+            "type": "java",
+            "name": "Pattern",
+            "request": "launch",
+            "mainClass": "Pattern",
+            "projectName": "CODING_18447f23"
+        },
+        {
+            "type": "java",
+            "name": "Pattern1",
+            "request": "launch",
+            "mainClass": "Pattern1",
+            "projectName": "CODING_18447f23"
+        },
+        {
+            "type": "java",
+            "name": "Pattern10",
+            "request": "launch",
+            "mainClass": "Pattern10",
+            "projectName": "CODING_18447f23"
+        },
+        {
+            "type": "java",
+            "name": "Pattern11",
+            "request": "launch",
+            "mainClass": "Pattern11",
+            "projectName": "CODING_18447f23"
+        },
+        {
+            "type": "java",
+            "name": "Pattern12",
+            "request": "launch",
+            "mainClass": "Pattern12",
+            "projectName": "CODING_18447f23"
+        },
+        {
+            "type": "java",
+            "name": "Pattern2",
+            "request": "launch",
+            "mainClass": "Pattern2",
+            "projectName": "CODING_18447f23"
+        },
+        {
+            "type": "java",
+            "name": "Pattern4",
+            "request": "launch",
+            "mainClass": "Pattern4",
+            "projectName": "CODING_18447f23"
+        },
+        {
+            "type": "java",
+            "name": "Pattern5",
+            "request": "launch",
+            "mainClass": "Pattern5",
+            "projectName": "CODING_18447f23"
+        },
+        {
+            "type": "java",
+            "name": "Pattern6",
+            "request": "launch",
+            "mainClass": "Pattern6",
+            "projectName": "CODING_18447f23"
+        },
+        {
+            "type": "java",
+            "name": "Pattern7",
+            "request": "launch",
+            "mainClass": "Pattern7",
+            "projectName": "CODING_18447f23"
+        },
+        {
+            "type": "java",
+            "name": "Pattern9",
+            "request": "launch",
+            "mainClass": "Pattern9",
+            "projectName": "CODING_18447f23"
+        },
+        {
+            "type": "java",
+            "name": "Prime",
+            "request": "launch",
+            "mainClass": "Prime",
+            "projectName": "CODING_18447f23"
+        },
+        {
+            "type": "java",
+            "name": "Q1array2D",
+            "request": "launch",
+            "mainClass": "Q1array2D",
+            "projectName": "CODING_18447f23"
+        },
+        {
+            "type": "java",
+            "name": "Scann",
+            "request": "launch",
+            "mainClass": "Scann",
+            "projectName": "CODING_18447f23"
+        },
+        {
+            "type": "java",
+            "name": "Sum",
+            "request": "launch",
+            "mainClass": "Sum",
+            "projectName": "CODING_18447f23"
+        },
+        {
+            "type": "java",
+            "name": "Table",
+            "request": "launch",
+            "mainClass": "Table",
+            "projectName": "CODING_18447f23"
+        },
+        {
+            "type": "java",
+            "name": "Tablefor",
+            "request": "launch",
+            "mainClass": "Tablefor",
+            "projectName": "CODING_18447f23"
+        },
+        {
+            "type": "java",
+            "name": "Variable",
+            "request": "launch",
+            "mainClass": "Variable",
+            "projectName": "CODING_18447f23"
+        },
+        {
+            "type": "java",
+            "name": "While",
+            "request": "launch",
+            "mainClass": "While",
+            "projectName": "CODING_18447f23"
+        },
+        {
+            "type": "java",
+            "name": "floydpattern8",
+            "request": "launch",
+            "mainClass": "floydpattern8",
+            "projectName": "CODING_18447f23"
+        },
+        {
+            "type": "java",
+            "name": "functionmul",
+            "request": "launch",
+            "mainClass": "functionmul",
+            "projectName": "CODING_18447f23"
+        },
+        {
+            "type": "java",
+            "name": "functionproduct",
+            "request": "launch",
+            "mainClass": "functionproduct",
+            "projectName": "CODING_18447f23"
+        },
+        {
+            "type": "java",
+            "name": "pattern3",
+            "request": "launch",
+            "mainClass": "pattern3",
+            "projectName": "CODING_18447f23"
+        }
+    ]
+}
