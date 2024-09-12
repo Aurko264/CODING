@@ -1,4 +1,4 @@
-//Take a matrix as input from user. Search for a given number x and print the indices atb which it occurs.
+//Take a matrix as input from user. Search for a given number x and print the indices at which it occurs.
 
 import java.util.*;
 
@@ -27,7 +27,7 @@ public class Q1array2D {
         for (int i = 0; i < rows; i++) {
             for (int j = 0; j < columns; j++) {
                 if (numbers[i][j] == x) {
-                    System.out.println("x found at location : ("+ i +" , "+ j +")");
+                    System.out.println("x found at location : ("+ i + " , " + j +")");
                 }
             }
         }

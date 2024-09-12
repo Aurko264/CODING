@@ -25,11 +25,11 @@ public class Q3array2D {
         // To print transpose
         for (int j = 0; j < m; j++) {
             for (int i = 0; i < n; i++) {
-               System.out.print(matrix[j][i] + " ");
-           }            
+               System.out.print(matrix[i][j] + " ");
+           }  
+           
+           System.out.println( );
         }
-
-        System.out.println();
 
         s.close();
     }

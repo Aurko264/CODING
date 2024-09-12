@@ -1,4 +1,4 @@
-// Write a programm using switch. 
+// Write a program using switch. 
 
 import java.util.*;
 
