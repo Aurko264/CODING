@@ -18,10 +18,10 @@ class Bankacc
         
         s.close();
     }
-    public void deposite()
+    public void deposit()
     {
         Scanner s = new Scanner(System.in);
-        System.out.println("Enter amount to deposite");
+        System.out.println("Enter amount to deposit");
         double a=s.nextDouble();
         balance=balance+a;
 
@@ -47,7 +47,7 @@ class Bankacc
     {
         Bankacc obj=new Bankacc();
         obj.create();
-        obj.deposite();
+        obj.deposit();
         obj.display();
         obj.withdraw();
         obj.display();
