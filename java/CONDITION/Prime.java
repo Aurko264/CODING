@@ -10,7 +10,7 @@ public class Prime {
 
         boolean prime = true;
         
-            if(n % 2== 0){
+            if(n % 2 == 0){
                 prime = false;
             }
         
