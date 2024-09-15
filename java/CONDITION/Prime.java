@@ -1,4 +1,4 @@
-//WAP to check whether a number is prime or not.
+// WAP to check whether a number is prime or not.
 
 import java.util.*;
 

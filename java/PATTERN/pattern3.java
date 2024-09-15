@@ -9,7 +9,7 @@
       */  
 
 
-public class pattern3 {
+public class Pattern3 {
     public static void main(String[] main){
         int n = 4;
 
