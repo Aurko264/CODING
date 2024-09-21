@@ -1,6 +1,6 @@
 // Example 2
 
-public class Array2 {
+public class ArrayEx2 {
     public static void main(String[] args) {
     int marks[] = {97, 98, 99};
 

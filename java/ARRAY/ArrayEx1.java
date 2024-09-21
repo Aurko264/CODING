@@ -1,6 +1,6 @@
 // Example array program
 
-public class Array1 {
+public class ArrayEx1 {
     public static void main(String[] args) {
         //int[] marks = new int[3];
         int marks[] = new int[3];

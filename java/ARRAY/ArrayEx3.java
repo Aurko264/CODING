@@ -2,7 +2,7 @@
 
 import java.util.*;
 
-public class Array3 {
+public class ArrayEx3 {
     public static void main(String[] args) {
         Scanner s = new Scanner(System.in);
         System.out.print("Enter the size : ");
