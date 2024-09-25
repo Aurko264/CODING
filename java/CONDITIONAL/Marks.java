@@ -28,7 +28,7 @@ public class Marks {
             }else{
                 System.out.println("Invalid");
             }
-            System.out.println("Want to continue ? (yes(1) or no(0))");
+            System.out.println("Want to continue ? (yes (1) or no (0))");
             input = s.nextInt();
         }while(input == 1);
 
