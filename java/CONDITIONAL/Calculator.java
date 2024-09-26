@@ -1,4 +1,4 @@
-//Write a programm to create a calculator. 
+//Write a program to create a calculator. 
 
 import java.util.*;
 
