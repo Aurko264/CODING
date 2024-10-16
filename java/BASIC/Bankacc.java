@@ -1,4 +1,4 @@
-// Write a programm to create a bank account to deposite , withdraw and display balance.
+// Write a program to create a bank account to deposite , withdraw and display balance.
 
 
 import java.util.*;
